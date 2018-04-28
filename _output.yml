@@ -1,0 +1,7 @@
+
+bookdown::pdf_document2:
+  toc: yes
+  toc_depth: 3
+  keep_tex: yes
+  latex_engine: pdflatex
+  citation_package: natbib
