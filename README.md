@@ -1,5 +1,5 @@
 # Global-Terrorism-Predictive-Investigation
-Review descriptive statistics and apply supervised learning techniques to prdict various outcomes in Global Terrorism trends
+Review descriptive statistics and apply supervised learning techniques to predict various outcomes in Global Terrorism trends
 
 
 
