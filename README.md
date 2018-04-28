@@ -21,4 +21,4 @@ The files in this repository are as follows:
 - [PDF](https://github.com/tomkennon/Global-Terrorism-Predictive-Investigation/blob/master/FINAL_writeup.pdf)
 
 ## File Types
-This {.PDF} paper is generated from an R markdown {.Rmd} file.  The datasets {.csv} are included in the repository to allow for reproducible code.
+This {.PDF} paper is generated from an R markdown {.Rmd} file.  The datasets {.csv} and image files {.png} used are included in the repository to allow for reproducible code.
